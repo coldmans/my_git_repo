@@ -3,5 +3,5 @@
 
 void hello()
 {
-    printf("Hello,");
+    printf("Hello from new feature branch!");
 }
