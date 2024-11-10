@@ -3,5 +3,5 @@
 
 void world()
 {
-    printf("World,");
+    printf("The World is beautiful!");
 }
